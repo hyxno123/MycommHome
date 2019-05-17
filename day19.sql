@@ -1,4 +1,3 @@
-create database day19;
 use day19;
 create table category(
 	id varchar(100) primary key,
